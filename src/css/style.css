@@ -1,0 +1,1899 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+
+body
+{
+  margin: 0px;
+  padding: 0px;
+}
+.logo
+{
+  /* Rectangle 305 */
+
+position: absolute;
+width: 123px;
+height: 90px;
+left: 190px;
+top: 5px;
+
+background: url(../../img/Rectangle\ 305.png);
+
+}
+
+.btn {
+  background-color: #fff;
+  position: absolute;
+width: 80px;
+height: 30px;
+left: 1312px;
+top: 74px;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+
+
+.img11
+{
+  position: absolute;
+  top: 6px;
+  left: 10px;
+}
+.img22
+{
+  position: absolute;
+  top: 6px;
+  left: 55px;
+}
+.img33
+{
+  position: absolute;
+  left: 10px;
+  top: 6px;
+}
+.img44
+{
+  position: absolute;
+  left: 10px;
+  top: 40px;
+}
+.dropdown {
+  position: absolute;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  width: 50px;
+  height: 70px;
+  top: 106px;
+  left: 1312px;
+  position: absolute;
+  background-color: rgba(62, 62, 62, 0.5);
+  z-index: 2;
+}
+
+.dropdown-content a {
+  color: black;
+  height: 10px;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.search_hover
+{
+  display: inline-block;
+}
+.btn1
+{
+  background-color: #fff;
+  position: absolute;
+  width: 41px;
+  height: 41px;
+  left: 1269px;
+  top: 65px;
+  color: white;
+  border: none;
+  outline: none;
+}
+.search
+{
+  position: absolute;
+  top: 17px;
+  left: 11px;
+}
+.input_text
+{
+position: absolute;
+width: 270px;
+height: 41px;
+left: 1035px;
+top: 106px;
+z-index: 2;
+background: #F1F1F1;
+
+/* Поиск */
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+color: #3E3E3E;
+display: none;
+}
+
+.search_hover:hover .input_text {
+  display: block;
+}
+
+
+
+ul
+    {
+      /* Group 12 */
+
+position: absolute;
+width: 636px;
+height: 95px;
+left: 162px;
+top: -15px;
+list-style: none;
+    }
+
+    
+
+    
+
+
+/* Главная */
+.m1
+{
+  
+position: absolute;
+width: 66px;
+height: 21px;
+left: 362px;
+top: 65px;
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+color: #3E3E3E;
+}
+.m1:hover, .m2:hover, .m3:hover, .m4:hover, .m5:hover
+{
+  border-bottom: solid 2px #E4B56B;
+}
+
+
+
+/* Rectangle 9 */
+
+/* position: absolute;
+width: 66px;
+height: 2px;
+left: 362px;
+top: 93px;
+
+background: #E4B56B; */
+
+
+
+
+
+
+/* Услуги */
+.m2
+{
+/* Group 50 */
+
+position: absolute;
+width: 82px;
+height: 21px;
+left: 489px;
+top: 65px;
+}
+.m2 > .t
+{
+  position: absolute;
+width: 58px;
+height: 21px;
+left: 489px;
+top: 65px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+color: #3E3E3E;
+}
+.t1
+{
+/* down arrow */
+
+position: absolute;
+width: 8px;
+height: 14px;
+left: 557px;
+top: 82px;
+
+transform: rotate(-90deg);
+}
+.t2
+{
+/* Vector */
+
+position: absolute;
+left: 40.96%;
+right: 58.46%;
+top: 3.16%;
+bottom: 96.3%;
+
+background: #E4B56B;
+transform: rotate(-90deg);
+}
+  
+
+
+
+
+
+
+
+
+
+
+/* Наши работы */
+.m3
+{
+  position: absolute;
+width: 115px;
+height: 21px;
+left: 615px;
+top: 65px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+color: #3E3E3E;
+}
+
+
+
+
+/* О нас */
+.m4
+{
+  position: absolute;
+width: 49px;
+height: 21px;
+left: 808px;
+top: 65px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+color: #3E3E3E;
+}
+
+
+
+
+/* Контакты */
+.m5
+{
+  position: absolute;
+width: 80px;
+height: 21px;
+left: 918px;
+top: 65px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+color: #3E3E3E;
+}
+
+
+
+
+/* Rectangle 3 */
+.r1
+{
+  position: absolute;
+width: 1px;
+height: 95px;
+left: 80px;
+top: -65px;
+
+background: rgba(62, 62, 62, 0.22);
+}
+
+
+
+/* Rectangle 4 */
+.r2
+{
+position: absolute;
+width: 1px;
+height: 95px;
+left: 101px;
+top: -65px;
+
+background: rgba(62, 62, 62, 0.22);
+}
+
+
+
+/* Rectangle 5 */
+.r3
+{
+position: absolute;
+width: 1px;
+height: 95px;
+left: 125px;
+top: -65px;
+
+background: rgba(62, 62, 62, 0.22);
+}
+
+
+
+/* Rectangle 6 */
+.r4
+{
+position: absolute;
+width: 1px;
+height: 95px;
+left: 65px;
+top: -65px;
+
+background: rgba(62, 62, 62, 0.22);
+}
+
+#menu > ul > li > a {
+  text-decoration: none;
+  color: #3E3E3E;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  }
+
+
+
+  #menu ul li ul {
+    position: absolute;
+    left: 0;
+    top: 40px;
+    display: none;
+    list-style: none;
+    visibility: hidden;
+    padding: 0;
+    margin: 0;
+    width: 200px
+    }
+    #menu > ul > li ul li {
+    background-color: rgb(231, 223, 223);;
+    position: relative;
+    left: 0;
+    display: list-item;
+    float: none;
+    height: auto;
+    margin: 0;
+    text-align: left;
+    }
+    #menu ul li ul li a {
+    border-bottom: 1px solid #999;
+    display: block;
+    color: #3E3E3E;
+    padding: 10px 15px;
+    text-decoration: none;
+    }
+    #menu ul li ul li.parent a {
+    position: relative;
+    }
+    #menu ul li ul > li.parent > a::before {
+    border-top: 1px solid rgb(0, 0, 0);;
+    border-right: 1px solid rgb(0, 0, 0);;
+    content: "";
+    display: block;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%) rotate(45deg);
+    height: 6px;
+    width: 6px;
+    }
+    #menu ul li ul li:hover, #menu ul li ul li.hover {
+    background-color: rgb(196, 186, 186);
+    }
+    #menu ul li:hover ul, #menu ul li.hover ul {
+    display: block
+    }
+    
+    
+    #menu ul li:hover > ul {
+    opacity: 1;
+    visibility: visible;
+    margin: 0;
+    }
+
+    .sliders {
+      /* Rectangle */
+
+      position: absolute;
+      width: 1360px;
+      height: 448px;
+      left: 100px;
+      top: 106px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    .slider {
+      height: inherit;
+      overflow: hidden;
+      position: relative;
+      width: inherit;
+    }
+    
+    .slides {
+      height: inherit;
+      opacity: 0;
+      position: absolute;
+      width: inherit;
+      z-index: 0;
+      transform: scale(1.5);
+    }
+    
+    .slide1 { background-image: url(../../img/Rectangle.png); }
+    .slide2 { background-image: url(../../img/Rectangle\ 305.png); }
+    .slide3 { background-image: url(../../img/Rectangle.png); }
+    .slide4 { background-image: url(../../img/Rectangle.png); }
+    .slide5 { background-image: url(../../img/Rectangle.png); }
+    
+    #slide1:checked ~ .slider > .slide1,
+    #slide2:checked ~ .slider > .slide2,
+    #slide3:checked ~ .slider > .slide3,
+    #slide4:checked ~ .slider > .slide4,
+    #slide5:checked ~ .slider > .slide5 {
+      opacity: 1;
+      z-index: 1;
+      transform: scale(1);
+    }
+    
+    .sliders > input {
+      display: none;
+    }
+    
+    .sliders .controls {
+      left: 50%;
+      margin-left: -98px;
+      position: absolute;
+    }
+    
+    .sliders label {
+      cursor: pointer;
+      display: inline-block;
+      height: 8px;
+      margin: 25px 12px 0 16px;
+      position: relative;
+      width: 8px;
+      border-radius: 50%;
+      transition: background ease-in-out .5s;
+    }
+    
+    .sliders label:hover, 
+    #slide1:checked ~ .controls label:nth-of-type(1),
+    #slide2:checked ~ .controls label:nth-of-type(2),
+    #slide3:checked ~ .controls label:nth-of-type(3),
+    #slide4:checked ~ .controls label:nth-of-type(4),
+    #slide5:checked ~ .controls label:nth-of-type(5) {
+      background: #ddd;
+    }
+    
+    .sliders label:after {
+      border: 2px solid #ddd;
+      content: " ";
+      display: block;
+      height: 12px;
+      left: -4px;
+      position: absolute;
+      top: -4px;
+      width: 12px;
+      border-radius: 50%;
+    }
+    .rec
+    {
+      /* Rectangle 25 */
+
+    position: absolute;
+    width: 751px;
+    height: 260px;
+    left: 100px;
+    top: 200px;
+      z-index: 2;
+    background: rgba(62, 62, 62, 0.9);
+
+    }
+    .rec_text
+    {
+
+    position: absolute;
+    width: 631px;
+    height: 130px;
+    left: 90px;
+    top: 65px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 65px;
+
+    color: #FFFFFF;
+
+
+    }
+    .rec_line
+    {
+      /* Rectangle 9 */
+
+    position: absolute;
+    width: 636px;
+    height: 2px;
+    left: 0px;
+    top: 129px;
+
+    background: rgba(228, 181, 107, 0.8);
+
+    }
+
+
+
+    
+    .name_content
+    {
+      /* Услуги */
+
+position: absolute;
+width: 130px;
+height: 60px;
+left: 715px;
+top: 584px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #3E3E3E;
+
+
+    }
+    .underline_content
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 82px;
+height: 2px;
+left: 739px;
+top: 654px;
+
+background: #E4B56B;
+
+    }
+    .img_galery1
+    {
+        /* Rectangle 18 */
+
+    position: absolute;
+    width: 387px;
+    height: 201px;
+    left: 190px;
+    top: 686px;
+
+    background: url(../../img/Rectangle\ 18.png);
+
+    }
+    .img_block1
+    {
+      /* Rectangle 9 */
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 190px;
+top: 718px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text_block1
+    {
+      /* Производство оборудования */
+
+position: absolute;
+width: 278px;
+height: 60px;
+left: 0;
+top: 0;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 60px;
+/* identical to box height, or 300% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block1
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 46px;
+height: 2px;
+left: 290px;
+top: 22px;
+
+background: #E4B56B;
+transform: rotate(90deg);
+
+    }
+    .img_galery2
+    {
+      /* Rectangle 20 */
+
+position: absolute;
+width: 386px;
+height: 201px;
+left: 587px;
+top: 686px;
+
+background: url(../../img/Rectangle\ 20.png);
+
+    }
+    .img_block2
+    {
+      /* Rectangle 9 */
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 587px;
+top: 718px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text_block2
+    {
+ /* Металлическая мебель */
+
+position: absolute;
+width: 222px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 60px;
+/* identical to box height, or 300% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block2
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 46px;
+height: 2px;
+left: 290px;
+top: 22px;
+
+background: #E4B56B;
+transform: rotate(90deg);
+    }
+    .img_galery3
+    {
+      /* Rectangle 22 */
+
+position: absolute;
+width: 387px;
+height: 201px;
+left: 983px;
+top: 686px;
+
+background: url(../../img/Rectangle\ 22.png);
+
+    }
+    .img_block3
+    {
+      /* Rectangle 9 */
+
+position: absolute;
+width: 339px;
+height: 56px;
+left: 983px;
+top: 718px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text_block3
+    {
+/* Металлоконструкции */
+
+position: absolute;
+width: 209px;
+height: 60px;
+left: 0;
+top: 0;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 60px;
+/* identical to box height, or 300% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block3
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 46px;
+height: 2px;
+left: 290px;
+top: 22px;
+
+background: #E4B56B;
+transform: rotate(90deg);
+    }
+    .img_galery4
+    {
+      /* Rectangle 19 */
+
+position: absolute;
+width: 387px;
+height: 202px;
+left: 190px;
+top: 897px;
+
+background: url(../../img/Rectangle\ 19.png);
+
+    }
+    .img_block4
+    {
+      /* Rectangle 9 */
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 190px;
+top: 930px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text_block4
+    {
+      /* Металлообработка */
+
+position: absolute;
+width: 186px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 60px;
+/* identical to box height, or 300% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block4
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 46px;
+height: 2px;
+left: 290px;
+top: 22px;
+
+background: #E4B56B;
+transform: rotate(90deg);
+    }
+    .img_galery5
+    {
+      /* Rectangle 21 */
+
+position: absolute;
+width: 386px;
+height: 202px;
+left: 587px;
+top: 897px;
+
+background: url(../../img/Rectangle\ 21.png);
+
+    }
+    .img_block5
+    {
+      /* Rectangle 9 */
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 587px;
+top: 930px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text_block5
+    {
+      /* Раскрой металла */
+
+position: absolute;
+width: 165px;
+height: 60px;
+left: 0;
+top: 0;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 60px;
+/* identical to box height, or 300% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block5
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 46px;
+height: 2px;
+left: 290px;
+top: 22px;
+
+background: #E4B56B;
+transform: rotate(90deg);
+    }
+    .img_galery6
+    {
+      /* Rectangle 17 */
+
+position: absolute;
+width: 387px;
+height: 202px;
+left: 983px;
+top: 897px;
+
+background: url(../../img/Rectangle\ 17.png);
+
+    }
+    .img_block6
+    {
+      /* Rectangle 9 */
+
+position: absolute;
+width: 339px;
+height: 56px;
+left: 983px;
+top: 930px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text_block6
+    {
+      /* Конструкторское бюро */
+
+position: absolute;
+width: 224px;
+height: 60px;
+left: 0;
+top: 0;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 60px;
+/* identical to box height, or 300% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block6
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 46px;
+height: 2px;
+left: 290px;
+top: 22px;
+
+background: #E4B56B;
+transform: rotate(90deg);
+    }
+    .img_galery7
+    {
+      /* Rectangle 23 */
+
+position: absolute;
+width: 585px;
+height: 202px;
+left: 190px;
+top: 1109px;
+
+background: url(../../img/Rectangle\ 23.png);
+
+    }
+    .img_block7
+    {
+      /* Rectangle 9 */
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 190px;
+top: 1141px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text_block7
+    {
+      /* Аренда техники */
+
+position: absolute;
+width: 154px;
+height: 60px;
+left: 0;
+top: 0;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 60px;
+/* identical to box height, or 300% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block7
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 46px;
+height: 2px;
+left: 290px;
+top: 22px;
+
+background: #E4B56B;
+transform: rotate(90deg);
+    }
+    .img_galery8
+    {
+      /* Rectangle 24 */
+
+position: absolute;
+width: 585px;
+height: 202px;
+left: 785px;
+top: 1109px;
+
+background: url(../../img/Rectangle\ 24.png);
+
+    }
+    .img_block8
+    {
+      /* Rectangle 9 */
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 785px;
+top: 1141px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text_block8
+    {
+      /* Ремонт техники */
+
+position: absolute;
+width: 153px;
+height: 60px;
+left: 0;
+top: 0;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 60px;
+/* identical to box height, or 300% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block8
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 46px;
+height: 2px;
+left: 290px;
+top: 22px;
+
+background: #E4B56B;
+transform: rotate(90deg);
+    }
+    .name_content2
+    {
+      /* Rectangle 28 */
+
+position: absolute;
+width: 379px;
+height: 43px;
+left: 590px;
+top: 1331px;
+
+background: #454647;
+
+
+    }
+    .text_content
+    {
+      /* Быстрый расчет цены по чертежу */
+
+position: absolute;
+width: 319px;
+height: 23px;
+left: 0;
+top: 0;
+margin: 10px 30px 10px 30px;
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .name_content3
+    {
+      /* Наша компания */
+
+position: absolute;
+width: 302px;
+height: 60px;
+left: 629px;
+top: 1414px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #3E3E3E;
+
+
+    }
+    .underline_content3
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 82px;
+height: 2px;
+left: 739px;
+top: 1474px;
+
+background: #E4B56B;
+
+    }
+    .content4
+    {
+      /* Rectangle 25 */
+
+position: absolute;
+width: 1360px;
+height: 380px;
+left: 100px;
+top: 1506px;
+
+background: linear-gradient(0deg, rgba(62, 62, 62, 0.29) 0%, rgba(62, 62, 62, 0) 100%), url(../../img/Rectangle\ 25.png);
+
+    }
+    .rec_content4_bloc
+    {
+      /* Rectangle 24 */
+
+position: absolute;
+width: 750px;
+height: 260px;
+left: 100px;
+top: 1566px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text1_content4_block
+    {
+      /* Почему мы? */
+
+position: absolute;
+width: 228px;
+height: 60px;
+left: 90px;
+top: 20px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+    }
+    .text2_content4_block
+    {
+      /* Люди – профессионалы с большим опытом работы. Полный спектр работ по металлообработке в одном месте – комплексный индивидуальный подход. Конструкторский отдел. Логистика. Многолетний опыт машиностроения – создание промышленного */
+
+position: absolute;
+width: 545px;
+height: 115px;
+left: 90px;
+top: 100px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+/* or 128% */
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block_content4
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 212px;
+height: 2px;
+left: 580px;
+top: 105px;
+
+background: #E4B56B;
+transform: rotate(-90deg);
+
+    }
+
+    .content5
+    {
+      /* Rectangle 26 */
+
+position: absolute;
+width: 1360px;
+height: 380px;
+left: 100px;
+top: 1916px;
+
+background: url(../../img/Rectangle\ 26.png);
+
+    }
+    .rec_content5_bloc
+    {
+      /* Rectangle 24 */
+
+position: absolute;
+width: 750px;
+height: 260px;
+left: 709px;
+top: 1974px;
+z-index: 2;
+background: rgba(62, 62, 62, 0.9);
+
+    }
+    .text1_content5_block
+    {
+      /* Наши преимущества */
+
+position: absolute;
+width: 398px;
+height: 60px;
+left: 110px;
+top: 20px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height, or 150% */
+
+color: #FFFFFF;
+
+
+    }
+    .text2_content5_block
+    {
+      /* Люди – профессионалы с большим опытом работы. Полный спектр работ по металлообработке в одном месте – комплексный индивидуальный подход. Конструкторский отдел. Логистика. Многолетний опыт машиностроения – создание промышленного */
+
+position: absolute;
+width: 545px;
+height: 115px;
+left: 110px;
+top: 100px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+/* or 128% */
+
+color: #FFFFFF;
+
+
+    }
+    .rec_block_content5
+    {
+      /* Rectangle */
+
+position: absolute;
+width: 212px;
+height: 2px;
+left: -29px;
+top: 105px;
+
+background: #E4B56B;
+transform: rotate(-90deg);
+
+    }
+
+
+
+    .footer_left1
+    {
+      /* О компании */
+
+position: absolute;
+width: 102px;
+height: 21px;
+left: 190px;
+top: 2316px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+color: #3E3E3E;
+
+
+    }
+    .footer_left2 > a
+    {
+      /* Наши работы */
+
+position: absolute;
+width: 102px;
+height: 21px;
+left: 190px;
+top: 2367px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_left3 > a
+    {
+      /* Контакты */
+
+position: absolute;
+width: 71px;
+height: 21px;
+left: 190px;
+top: 2403px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_left4 > a
+    {
+      /* Доставка */
+
+position: absolute;
+width: 72px;
+height: 21px;
+left: 190px;
+top: 2439px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_left5 > a
+    {
+      /* Форма заказа */
+
+position: absolute;
+width: 103px;
+height: 21px;
+left: 190px;
+top: 2475px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_center_left1
+    {
+      /* Услуги */
+
+position: absolute;
+width: 58px;
+height: 21px;
+left: 556px;
+top: 2316px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+color: #3E3E3E;
+
+
+    }
+    .footer_center_left2 > a
+    {
+      /* Производство оборудования */
+
+position: absolute;
+width: 223px;
+height: 21px;
+left: 556px;
+top: 2367px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_center_left3 > a
+    {
+      /* Металлическая мебель */
+
+position: absolute;
+width: 177px;
+height: 21px;
+left: 556px;
+top: 2403px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_center_left4 > a
+    {
+      /* Металлоконструкции */
+
+position: absolute;
+width: 165px;
+height: 21px;
+left: 556px;
+top: 2439px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_center_left5 > a
+    {
+      /* Металлообработка */
+
+position: absolute;
+width: 149px;
+height: 21px;
+left: 556px;
+top: 2475px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_center_right1 > a
+    {
+      /* Раскрой металла */
+
+position: absolute;
+width: 132px;
+height: 21px;
+left: 839px;
+top: 2367px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_center_right2 > a
+    {
+      /* Конструкторское бюро */
+
+position: absolute;
+width: 179px;
+height: 21px;
+left: 839px;
+top: 2403px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_center_right3 > a
+    {
+      /* Аренда техники */
+
+position: absolute;
+width: 123px;
+height: 21px;
+left: 839px;
+top: 2439px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_center_right4 > a
+    {
+      /* Ремонт техники */
+
+position: absolute;
+width: 122px;
+height: 21px;
+left: 839px;
+top: 2475px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-decoration: none;
+color: #AEAEAE;
+
+
+    }
+    .footer_right1
+    {
+      /* Контактная информация */
+
+position: absolute;
+width: 210px;
+height: 21px;
+left: 1160px;
+top: 2316px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+color: #3E3E3E;
+
+
+    }
+    .footer_right2
+    {
+      /* Заводская улица, 2В, Буча, Киевская область, 08292 */
+
+position: absolute;
+width: 270px;
+height: 42px;
+left: 1160px;
+top: 2346px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+/* or 131% */
+
+color: #3E3E3E;
+
+
+    }
+    .footer_right3
+    {
+      /* ПН - ПТ: */
+
+position: absolute;
+width: 100px;
+height: 21px;
+left: 1160px;
+top: 2403px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+
+color: #3E3E3E;
+
+
+    }
+    .footer_right4
+    {
+      /* 09:00 - 18:00 */
+
+position: absolute;
+width: 91px;
+height: 21px;
+left: 1231px;
+top: 2403px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+
+color: #3E3E3E;
+
+
+    }
+    .footer_right5
+    {
+      /* +38(097)123-45-67 */
+
+position: absolute;
+width: 136px;
+height: 21px;
+left: 1160px;
+top: 2439px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+
+color: #3E3E3E;
+
+
+    }
+    .footer_right_img1
+    {
+      position: absolute;
+      width: 21px;
+      height: 21px;
+      left: 1160px;
+      top: 2475px;
+      background: url(../../img/Vector.png);
+    }
+    .footer_right_img2
+    {
+      position: absolute;
+      width: 21px;
+      height: 21px;
+      left: 1196px;
+      top: 2475px;
+      background: url(../../img/instagram.png);
+    }
+    .footer_right_img3
+    {
+      position: absolute;
+      width: 21px;
+      height: 21px;
+      left: 1232px;
+      top: 2475px;
+      background: url(../../img/Group.png);
+    }
+    .footer_right_img4
+    {
+      position: absolute;
+      width: 21px;
+      height: 21px;
+      left: 1268px;
+      top: 2475px;
+      background: url(../../img/Subtract.png);
+    }
+    .footer_bottom
+    {
+      /* Developed by Stubbs */
+
+position: absolute;
+width: 110px;
+height: 30px;
+left: 735px;
+top: 2546px;
+margin-bottom: 20px;
+
+font-family: HelveticaNeueCyr;
+font-size: 14px;
+line-height: 14px;
+text-align: center;
+text-transform: uppercase;
+
+color: #3E3E3E;
+
+
+    }
+
+    #gear_left1
+    {
+      /* Vector */
+
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    top: 750px;
+    left: 1240px;
+    right: 0px;
+    background: url(../../img/gearL/Vector1.png);
+
+    }
+    #gear_left2
+    {
+      position: absolute;
+    width: 280px;
+    height: 280px;
+    top: 908px;
+    left: 1180px;
+    right: 0px;
+    background: url(../../img/gearL/Vector2.png);
+    }
+    #gear_left3
+    {
+      position: absolute;
+    width: 450px;
+    height: 450px;
+    top: 650px;
+    left: 850px;
+    right: 0px;
+    background: url(../../img/gearL/Vector3.png);
+    }
+
+    #gear_right1
+    {
+      position: absolute;
+    width: 210px;
+    height: 210px;
+    top: 980px;
+    left: 100px;
+    right: 0px;
+    background: url(../../img/gearR/Vector1.png);
+    }
+    #gear_right2
+    {
+      position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 775px;
+    left: 130px;
+    right: 0px;
+    background: url(../../img/gearR/Vector2.png);
+    }
+    #gear_right3
+    {
+      position: absolute;
+    width: 450px;
+    height: 450px;
+    top: 790px;
+    left: 215px;
+    right: 0px;
+    background: url(../../img/gearR/Vector3.png);
+    }
+.last_rec1
+{
+  /* Rectangle 6 */
+
+position: absolute;
+width: 1px;
+height: 55px;
+left: 515px;
+top: 2296px;
+
+background: #E4B56B;
+
+}
+
+.last_rec2
+{
+/* Rectangle 27 */
+
+position: absolute;
+width: 1px;
+height: 55px;
+left: 1014px;
+top: 2296px;
+
+background: #E4B56B;
+
+
+}  
+
